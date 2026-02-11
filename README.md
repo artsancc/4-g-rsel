@@ -1,4 +1,4 @@
-# goruntu-isleme
+
 c: Daire (Circle) 
 r: Dikdörtgen (Rectangle) 
 l: Çizgi (Line) 
